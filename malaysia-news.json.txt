@@ -1,0 +1,53 @@
+{
+    "totalArticles": 12456,
+    "articles": [
+        {
+            "id": "001536e9a5bfc16a98916c527c199394",
+            "title": "Malaysia’s military jet crashes in a ball of fire, pilots ejected safely",
+            "description": "Prime Minister Anwar Ibrahim called for a thorough investigation to determine the cause of the incident. Read more at straitstimes.com.",
+            "content": "Sign up now: Get ST's newsletters delivered to your inbox\nA Malaysian military fighter jet crashed at an airbase in Pahang on the night of Aug 21, with videos capturing the aircraft bursting into flames as it took off going viral on social media.\nRoy... [2482 chars]",
+            "url": "https://www.straitstimes.com/asia/se-asia/malaysias-military-jet-crashes-in-a-ball-of-fire-pilots-ejected-safely",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/677346bb4c61ccbeceb00b48bcb4e2514248bd13a9b19fbc86f75cd6473ec8d0",
+            "publishedAt": "2025-08-22T06:10:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "400f99faec082d30d996f53310416b08",
+            "title": "Malaysia PM Anwar orders ‘thorough probe’ into air force fighter jet crash at Kuantan airport",
+            "description": "The incident at the Sultan Haji Ahmad Shah Airport is believed to be the first major crash involving an F/A-18D Hornet jet in Malaysia since it entered service.",
+            "content": "KUANTAN, Pahang: Malaysia Prime Minister Anwar Ibrahim has called for a \"thorough probe” into the crash of a Royal Malaysian Air Force (RMAF) fighter jet at an airport in Kuantan, Pahang on Thursday (Aug 21) night even as he expressed concern for the... [1965 chars]",
+            "url": "https://www.channelnewsasia.com/asia/malaysia-f18-fighter-jet-hornet-crash-kuantan-pahang-anwar-ibrahim-5308471",
+            "image": "https://dam.mediacorp.sg/image/upload/s---HLYM86---/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2025/08/22/2 panel composite.png?itok=nPBLzSsk",
+            "publishedAt": "2025-08-22T05:00:00Z",
+            "lang": "en",
+            "source": {
+                "id": "09131c39169c9c96230862dc4c1fa727",
+                "name": "CNA",
+                "url": "https://www.channelnewsasia.com",
+                "country": "sg"
+            }
+        },
+        {
+            "id": "79d045ac3080fed11958a9351d4216eb",
+            "title": "Man in Malaysia finds 5m-long, 40kg python trying to eat chickens",
+            "description": "14 snake-related incidents have been recorded in the area since Aug 15. Read more at straitstimes.com.",
+            "content": "Sign up now: Get ST's newsletters delivered to your inbox\nThe officials arrived and managed to capture the 5m long reptile weighting 40kg before it managed to eat any of the birds.\nChickens and ducks in a Kedah village kicked up a ruckus on Aug 22 mo... [956 chars]",
+            "url": "https://www.straitstimes.com/asia/se-asia/man-in-malaysia-finds-5m-long-40kg-python-trying-to-eat-chickens",
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a43113653d97cec18fefbb90d256e40b5a78320e0385840da220f53fcc343aad",
+            "publishedAt": "2025-08-22T04:20:00Z",
+            "lang": "en",
+            "source": {
+                "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+                "name": "The Straits Times",
+                "url": "https://www.straitstimes.com",
+                "country": "sg"
+            }
+        }
+    ]
+}
